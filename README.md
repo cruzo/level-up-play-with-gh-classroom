@@ -1,4 +1,4 @@
-## LVEL-UP 12
+## LEVEL-UP 12
 ## GitHub ClassRoom Inciso 2 "Hello Word"
 ## How to solve this challenge?
 
